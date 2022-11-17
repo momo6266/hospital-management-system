@@ -1,0 +1,5 @@
+,22,Prakash,Worker,Male,5000,
+,23,Komal,Nurse,Female,2000,
+,24,Raju,Worker,Male,5000,
+,25,Rani,Nurse,Female,20000,
+

@@ -1,0 +1,4 @@
+,X-ray,RM800
+,CT Scan,RM1200
+,OR Scan,RM500
+,Blood Bank,RM50

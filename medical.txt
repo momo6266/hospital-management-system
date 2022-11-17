@@ -1,0 +1,4 @@
+,Nytra,Ace pvt,4-4-15,RM500,5
+,Brufa,Reckitt,12-7-17,RM50,56
+,Pride,DDF pvt,12-4-12,RM1100,100
+,Corex,Cino pvt,9-5-16,RM55,10
